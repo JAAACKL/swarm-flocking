@@ -2,7 +2,7 @@
 
 Best extendable simulator. Easy to work off of. Great place to start.
 
-![Flocking Simulation](forage.png)
+![Flocking Simulation](assets/forage.png)
 
 > **Explore the fascinating world of emergent collective behavior with this comprehensive flocking simulation framework based on the groundbreaking algorithms by Olfati-Saber and Craig.**
 
@@ -10,6 +10,14 @@ Best extendable simulator. Easy to work off of. Great place to start.
 [![NumPy](https://img.shields.io/badge/NumPy-Supported-green.svg)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Supported-orange.svg)](https://matplotlib.org/)
 [![MEAM6240](https://img.shields.io/badge/MEAM-6240-red.svg)](https://www.seas.upenn.edu/)
+
+## 🎬 Watch It In Action
+
+### 2D Flocking Simulation with 100 Agents
+![2D Flocking with 100 Agents](assets/2d100-ezgif.com-speed.gif)
+
+### 3D Flocking Simulation
+![3D Flocking Simulation](assets/3d-ezgif.com-video-to-gif-converter.gif)
 
 ## 🌟 Overview
 This project implements various flocking algorithms and simulations in both 2D and 3D environments. It is based on the theoretical frameworks of Olfati-Saber and Craig's flocking models, with implementations for different scenarios including basic flocking, obstacle avoidance, foraging, and predator-prey dynamics.
@@ -56,6 +64,17 @@ This project implements various flocking algorithms and simulations in both 2D a
   - Normalized deviation energy
   - Velocity mismatch
 
+## 🎬 More Simulations
+
+### Foraging Behavior Simulation
+![Foraging Simulation](assets/ezgif.com-speed.gif)
+
+### Predator-Prey Dynamics
+![Predator-Prey Dynamics](assets/ezgif.com-speed-2.gif)
+
+### Obstacle Avoidance
+![Obstacle Avoidance](assets/ezgif.com-speed-3.gif)
+
 ## 🎮 How to Run
 
 ### Basic Flocking Simulation
@@ -101,7 +120,7 @@ This project is based on several research papers on flocking algorithms, which c
 - "Flocking for Multi-Agent Dynamic Systems: Algorithms and Theory" by Olfati-Saber
 - Other papers on flocking behavior, optimization-based distributed flocking, and predator-prey dynamics
 
-![Convergence Analysis](convergence.png)
+![Convergence Analysis](assets/convergence.png)
 
 ## 📊 Results
 The simulation generates various metrics and visualizations:
@@ -110,7 +129,10 @@ The simulation generates various metrics and visualizations:
 - Food foraging efficiency comparison between flocking and non-flocking agents
 - Predator-prey interaction dynamics
 
-![Predator-Prey Simulation](predator_prey.png)
+![Predator-Prey Simulation](assets/predator_prey.png)
+
+### Parameter Visualization Tool
+![Parameter Visualization](assets/sim2d.png)
 
 ## 💻 Requirements
 - Python 3.x
