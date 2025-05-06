@@ -67,13 +67,13 @@ This project implements various flocking algorithms and simulations in both 2D a
 ## 🎬 More Simulations
 
 ### Foraging Behavior Simulation
-![Foraging Simulation](assets/ezgif.com-speed.gif)
+![Foraging Simulation](assets/ezgif.com-video-to-gif-converter.gif)
 
 ### Predator-Prey Dynamics
-![Predator-Prey Dynamics](assets/ezgif.com-speed-2.gif)
+![Predator-Prey Dynamics](assets/ezgif.com-speed-3.gif)
 
 ### Obstacle Avoidance
-![Obstacle Avoidance](assets/ezgif.com-speed-3.gif)
+![Obstacle Avoidance](assets/ezgif.com-speed.gif)
 
 ## 🎮 How to Run
 
@@ -131,8 +131,6 @@ The simulation generates various metrics and visualizations:
 
 ![Predator-Prey Simulation](assets/predator_prey.png)
 
-### Parameter Visualization Tool
-![Parameter Visualization](assets/sim2d.png)
 
 ## 💻 Requirements
 - Python 3.x
